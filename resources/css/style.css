@@ -1,0 +1,50 @@
+body {
+  text-align: center;
+  font-family: Helvetica, sans-serif;
+}
+
+h1 {
+  font-size: 70px;
+}
+
+a {
+  color: inherit;
+}
+
+h1, h2, h3 {
+  font-weight: bold;
+}
+
+.masthead {
+  color: white;
+  background-image: url(../images/flatiron.png);
+}
+
+h2 {
+  font-size: 32px;
+}
+
+.nav {
+  font-size: 18px;
+  color: white;
+}
+
+h3 {
+  font-size: 23px;
+}
+
+p {
+  font-size: 14px;
+}
+
+.newyork {
+  color: white;
+  background-image: url(../images/flatiron.png);
+}
+
+.footer {
+  font-size: 11px;
+  color: white;
+  text-align: left;
+  background-color: dimgray;
+}
